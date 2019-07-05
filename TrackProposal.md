@@ -15,7 +15,14 @@ Deep learning is the machine learning technique behind the most exciting capabil
     * [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
 
 ## 2 - [Deep Learning with Keras in Python](https://www.datacamp.com/courses/deep-learning-with-keras-in-python)
-(Live since June 28)
+Live since June 28
+**_Note_**: *This course has substantial overlap with 1, which, in my opinion, has much higher quality. I would discuss with my manager the possibility of dropping this course from the track.*
+  * Learning objectives
+    * Learner will be able to interpret more advanced neural network metrics and architectures
+    * Learner will be able to select more adequate parameters for building and validating a neural network.
+  * Prerequisites
+    * [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
+
 ## 3 - [Advanced Deep Learning with Keras in Python](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python)
 (Live since June 24)
 ## 4 - [Convolutional Neural Networks for Image Processing](https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing)
