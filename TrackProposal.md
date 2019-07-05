@@ -45,21 +45,26 @@ Live since June 28, 2019.
     * Learner will be able to understand how images are processed in a deep neural network.
     * Learner will be able to use convolution layers and max pooling in deep neural networks.
     * Learner will be able to use regularization methods in convolutional neural networks.
-  * Prerequisites: 
+  * Prerequisites
     * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
   
 ## 5 - Recurrent Neural Networks for Text Processing
+**_Note_**: *The course **_Recurrent Neural Networks for Language Modeling in Python by David Cecchini_**, currently in development, could be well suited here. I would like to check its contents in detail.*
+
   * Learning objectives
     * Learner will be able to
     * Learner will be able to
     * Learner will be able to
-  * Prerequisites: 
+  * Prerequisites
+    * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
+  
 ## 6 - Generative Deep Learning with Keras in Python
   * Learning objectives
     * Learner will be able to
     * Learner will be able to
     * Learner will be able to
-  * Prerequisites: 
+  * Prerequisites
+    * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
   
 ## 7 - [Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)
 **_Note_**: *This course has no slides available for download. I suggest that they are added to the platform.*
@@ -72,7 +77,7 @@ Live since June 24, 2019.
     * Learner will be able to use PyTorch objects and methods to define deep neural networks.
     * Learner will be able to distinguish the features and uses of PyTorch and Keras.
     * Learner will be able to create convolutional neural networks with PyTorch.
-  * Prerequisites:
+  * Prerequisites
     * [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
     * [Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python)
 
@@ -83,5 +88,5 @@ Live since June 24, 2019.
     * Learner will be able to understand tensors and tensor operations in TensorFlow.
     * Learner will be able to compare the implementation of deep neural networks with a low-level approach (TensorFlow) VS a high-level approach (Keras).
     * Learner will be able to use the Estimators API to streamline the model definition and training process and to avoid errors.
-  * Prerequisites:
+  * Prerequisites
     * [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
