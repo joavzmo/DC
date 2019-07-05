@@ -7,10 +7,9 @@ Deep learning is having a tremendous success in artificial intelligence, from sp
 ## 1 - [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
 Deep learning is the machine learning technique behind the most exciting capabilities in diverse areas like robotics, natural language processing, image recognition and artificial intelligence (including the famous AlphaGo). In this course, you'll gain hands-on, practical knowledge of how to use deep learning with Keras 2.0, the latest version of a cutting edge library for deep learning in Python.
   * Learning objectives
-    * Learn 1
-    * Learn 2
-    * Learn 3
-  * Prerequisites:
+    * Learner will be able to understand the fundamental concepts and terminology used in deep learning. 
+    * Learner will be able to create neural networks with the Specify-Compile-Fit-Optimize-Validate Keras workflow.
+  * Prerequisites
     * Introduction to Python
     * Intermediate Python for Data Science
     * Supervised Learning with scikit-learn
@@ -22,9 +21,9 @@ Deep learning is the machine learning technique behind the most exciting capabil
 ## 4 - [Convolutional Neural Networks for Image Processing](https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing)
 ## 5 - Recurrent Neural Networks for Text Processing
   * Learning objectives
-    * Learn 1
-    * Learn 2
-    * Learn 3
+    * Learner will be able to
+    * Learner will be able to
+    * Learner will be able to
   * Prerequisites: 
 ## 6 - Generative Deep Learning with Keras in Python
 ## 7 - [Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)
