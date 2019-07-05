@@ -30,6 +30,12 @@ Live since June 28.
 ## 3 - [Advanced Deep Learning with Keras in Python](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python)
 "This course shows you how to solve a variety of problems using the versatile Keras functional API. You will start with simple, multi-layer dense networks (also known as multi-layer perceptrons), and continue on to more complicated architectures. The course will cover how to build models with multiple inputs and a single output, as well as how to share weights between layers in a model. We will also cover advanced topics such as category embeddings and multiple-output networks. If you've ever wanted to train a network that does both classification and regression, then this course is for you!"
 
+  * Learning objectives
+    * Learner will be able to design deep neural networks with complex data flows, using Embedding, Flatten, Input, Concatenate, Add from Keras.
+    * Learner will be able to create deep neural networks that solve regression and classification models simultaneously.
+  * Prerequisites
+    * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
+
 ## 4 - [Convolutional Neural Networks for Image Processing](https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing)
 ## 5 - Recurrent Neural Networks for Text Processing
   * Learning objectives
