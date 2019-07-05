@@ -13,5 +13,5 @@
     * Learn 3
   * Prerequisites: 
 ## 6 - Generative Deep Learning with Keras in Python
-## 5 - [Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)
-## 6 - [Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
+## 7 - [Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)
+## 8 - [Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
