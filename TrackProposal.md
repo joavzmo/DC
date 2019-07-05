@@ -6,6 +6,7 @@ Deep learning is having a tremendous success in artificial intelligence, from sp
 
 ## 1 - [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
 **_Note_**: *to avoid giving the same name to the track and one of its courses, this title could be changed to Introduction to Deep Learning in Python.*
+
 **_Note_**: *this is also the last course of the Machine Learning with Python Skill Track, which I do not consider a problem. On the contrary, it provides a natural bridge between the two skill tracks.*
 "Deep learning is the machine learning technique behind the most exciting capabilities in diverse areas like robotics, natural language processing, image recognition and artificial intelligence (including the famous AlphaGo). In this course, you'll gain hands-on, practical knowledge of how to use deep learning with Keras 2.0, the latest version of a cutting edge library for deep learning in Python."
   * Learning objectives
