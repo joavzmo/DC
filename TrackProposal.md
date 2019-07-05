@@ -19,7 +19,7 @@ Deep learning is having a tremendous success in artificial intelligence, from sp
 
 "Deep learning is here to stay! It's the go-to technique to solve complex problems that arise with unstructured data and an incredible tool for innovation. Keras is one of the frameworks that make it easier to start developing deep learning models, and it's versatile enough to build industry-ready models in no time. In this course, you will learn regression and save the earth by predicting asteroid trajectories, apply binary classification to distinguish between real and fake dollar bills, use multiclass classification to decide who threw which dart at a dart board, learn to use neural networks to reconstruct noisy images and much more. Additionally, you will learn how to better control your models during training and how to tune them to boost their performance."
 
-Live since June 28.
+Live since June 28, 2019.
 
   * Learning objectives
     * Learner will be able to interpret more advanced neural network metrics and architectures.
@@ -37,6 +37,15 @@ Live since June 28.
     * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
 
 ## 4 - [Convolutional Neural Networks for Image Processing](https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing)
+"Deep learning methods use data to train neural network algorithms to do a variety of machine learning tasks, such as classification of different classes of objects. Convolutional neural networks are deep learning algorithms that are particularly powerful for analysis of images. This course will teach you how to construct, train and evaluate convolutional neural networks. You will also learn how to improve their ability to learn from data, and how to interpret the results of the training."
+
+  * Learning objectives
+    * Learner will be able to understand how images are processed in a deep neural network.
+    * Learner will be able to use convolution layers and max pooling in deep neural networks.
+    * Learner will be able to use regularization methods in convolutional neural networks.
+  * Prerequisites: 
+    * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
+  
 ## 5 - Recurrent Neural Networks for Text Processing
   * Learning objectives
     * Learner will be able to
@@ -44,7 +53,12 @@ Live since June 28.
     * Learner will be able to
   * Prerequisites: 
 ## 6 - Generative Deep Learning with Keras in Python
+  * Learning objectives
+    * Learner will be able to
+    * Learner will be able to
+    * Learner will be able to
+  * Prerequisites: 
 ## 7 - [Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)
 
-Live since June 24.
+Live since June 24, 2019.
 ## 8 - [Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
