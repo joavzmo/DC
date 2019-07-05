@@ -1,4 +1,4 @@
-*Note*: the track is composed of 6 existing courses and 2 newly proposed courses. See [TaskAnalysis](TaskAnalysis.md) for the rationale behind it. For the existing courses, the marketing description and prerequisites are copied from the course website. The learning objectives, however, are adapted from the course details.
+**_Note_**: *the track is composed of 6 existing courses and 2 newly proposed courses. See [TaskAnalysis](TaskAnalysis.md) for the rationale behind it. For the existing courses, the marketing description and prerequisites are copied from the course website. The learning objectives, however, are adapted from the course details.*
 
 # Skill Track: Deep Learning in Python
 
@@ -10,9 +10,9 @@ Deep learning is the machine learning technique behind the most exciting capabil
     * Learner will be able to understand the fundamental concepts and terminology used in deep learning. 
     * Learner will be able to create neural networks with the Specify-Compile-Fit-Optimize-Validate Keras workflow.
   * Prerequisites
-    * Introduction to Python
-    * Intermediate Python for Data Science
-    * Supervised Learning with scikit-learn
+    * [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+    * [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
+    * [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
 
 ## 2 - [Deep Learning with Keras in Python](https://www.datacamp.com/courses/deep-learning-with-keras-in-python)
 (Live since June 28)
