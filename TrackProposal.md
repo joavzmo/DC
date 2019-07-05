@@ -15,7 +15,7 @@ Deep learning is having a tremendous success in artificial intelligence, from sp
     * [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
 
 ## 2 - [Deep Learning with Keras in Python](https://www.datacamp.com/courses/deep-learning-with-keras-in-python)
-**_Note_**: *This course has substantial overlap with 1, which, in my opinion, has much higher quality. I would discuss with my experienced colleagues or manager the possibility of dropping this course from the track.*
+**_Note_**: *This course has substantial overlap with 1, which, in my opinion, has much higher quality. I would discuss with my experienced colleagues or manager the possibility of dropping it from the track. But then, what is the reason to have this course in the platform at all? Not having it in the track would relegate it to a second plane. Having a deeper insight into DataCamp's growth strategy would help me make a more informed decission.*
 
 "Deep learning is here to stay! It's the go-to technique to solve complex problems that arise with unstructured data and an incredible tool for innovation. Keras is one of the frameworks that make it easier to start developing deep learning models, and it's versatile enough to build industry-ready models in no time. In this course, you will learn regression and save the earth by predicting asteroid trajectories, apply binary classification to distinguish between real and fake dollar bills, use multiclass classification to decide who threw which dart at a dart board, learn to use neural networks to reconstruct noisy images and much more. Additionally, you will learn how to better control your models during training and how to tune them to boost their performance."
 
@@ -28,7 +28,8 @@ Live since June 28.
     * [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
 
 ## 3 - [Advanced Deep Learning with Keras in Python](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python)
-(Live since June 24)
+"This course shows you how to solve a variety of problems using the versatile Keras functional API. You will start with simple, multi-layer dense networks (also known as multi-layer perceptrons), and continue on to more complicated architectures. The course will cover how to build models with multiple inputs and a single output, as well as how to share weights between layers in a model. We will also cover advanced topics such as category embeddings and multiple-output networks. If you've ever wanted to train a network that does both classification and regression, then this course is for you!"
+
 ## 4 - [Convolutional Neural Networks for Image Processing](https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing)
 ## 5 - Recurrent Neural Networks for Text Processing
   * Learning objectives
@@ -38,4 +39,6 @@ Live since June 28.
   * Prerequisites: 
 ## 6 - Generative Deep Learning with Keras in Python
 ## 7 - [Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)
+
+Live since June 24.
 ## 8 - [Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
