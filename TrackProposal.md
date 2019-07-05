@@ -1,4 +1,4 @@
-**_Note_**: *the track is composed of six existing courses (1, 2, 3, 4, 7, 8) and two newly proposed courses (5, 6). See [TaskAnalysis](TaskAnalysis.md) for the rationale behind it. For the existing courses, the marketing description and prerequisites are copied from the course website. The learning objectives, however, are adapted from the course details.*
+**_Note_**: *the track is composed of six existing courses (1, 2, 3, 4, 7, 8) and two newly proposed courses (5, 6). See [TaskAnalysis.md](TaskAnalysis.md) for the rationale behind it. For the existing courses, the marketing description and prerequisites are copied from the course website. The learning objectives, however, are adapted from the course details.*
 
 # Skill Track: Deep Learning in Python
 
@@ -58,15 +58,18 @@ Live since June 28, 2019.
     * Learner will be able to
     * Learner will be able to
   * Prerequisites: 
+  
 ## 7 - [Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)
+**_Note_**: *This course has no slides available for download. I suggest that they are added to the platform.*
+
 "Neural networks have been at the forefront of Artificial Intelligence research during the last few years, and have provided solutions to many difficult problems like image classification, language translation or Alpha Go. PyTorch is one of the leading deep learning frameworks, being at the same time both powerful and easy to use. In this course you will use PyTorch to first learn about the basic concepts of neural networks, before building your first neural network to predict digits from MNIST dataset. You will then learn about convolutional neural networks, and use them to build much more powerful models which give more accurate results. You will evaluate the results and use different techniques to improve them. Following the course, you will be able to delve deeper into neural networks and start your career in this fascinating field."
 
 Live since June 24, 2019.
 
   * Learning objectives
-    * Learner will be able to
-    * Learner will be able to
-    * Learner will be able to
+    * Learner will be able to use PyTorch objects and methods to define deep neural networks.
+    * Learner will be able to distinguish the features and uses of PyTorch and Keras.
+    * Learner will be able to create convolutional neural networks with PyTorch.
   * Prerequisites:
     * [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
     * [Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python)
