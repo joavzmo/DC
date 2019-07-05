@@ -4,10 +4,10 @@ This document explains the rationale behind the curriculum design of the **Deep 
 
 ## Track rationale 
 
-The new track must be: 
-  * **Useful from day 1**: it must expose the learner to the main current deep learning tools in Python: Keras, PyTorch and TensorFlow.
-  * **In line with the DataCamp philosophy**: it must be interesting and accessible to wide audiences, progressively building advanced knowledge from simple concepts, without getting lost in the mathematical details.
-  * **Efficient**: it should include as many relevant existing courses as possible, avoiding substantial overlap.
+The new track must: 
+  * **Provide marketable skills from day 1**: it must expose the learner to the main current deep learning tools in Python: Keras, PyTorch and TensorFlow.
+  * **Be in line with the DataCamp philosophy**: it must be interesting and accessible to wide audiences, progressively building advanced knowledge from simple concepts, without getting lost in the mathematical details.
+  * **Be easy to implement**: from a business perspective, including relevant existing courses should be favored, while avoiding substantial overlap.
 
 ## Analysis of the DataCamp's portfolio
 
