@@ -1,4 +1,4 @@
-# Task analysis
+# Task Analysis
 
 This document explains the rationale behind the curriculum design of the **Deep Learning in Python** track and lists the main consulted references.
 
