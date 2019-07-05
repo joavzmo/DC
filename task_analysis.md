@@ -13,7 +13,7 @@ The new track must be:
 
 These are current courses that are directly relevant to the track:
 
-  * [Deep Learning in Python] (https://www.datacamp.com/courses/deep-learning-in-python)
+  * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
   * Deep Learning with Keras in Python (Live since June 28)
   * Advanced Deep Learning with Keras in Python (Live since June 24)
   * Convolutional Neural Networks for Image Processing
