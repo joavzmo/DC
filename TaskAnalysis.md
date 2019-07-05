@@ -2,7 +2,7 @@
 
 This document explains the rationale behind the curriculum design of the **Deep Learning in Python** track and lists the main used references.
 
-## Track rationale 
+## Track specifications 
 
 The new track must: 
   * **Provide marketable skills from day 1**: it must expose the learner to the main current deep learning tools in Python (Keras, PyTorch and TensorFlow).
