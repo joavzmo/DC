@@ -11,14 +11,19 @@ The new track must be:
 
 ## DataCamp portfolio
 
-Current courses that are directly relevant to the track:
+These are current courses that are directly relevant to the track:
 
-  * Deep Learning in Python
-  * Deep Learning with Keras in Python
-  * Advanced Deep Learning with Keras in Python
+  * [Deep Learning in Python] (https://www.datacamp.com/courses/deep-learning-in-python)
+  * Deep Learning with Keras in Python (Live since June 28)
+  * Advanced Deep Learning with Keras in Python (Live since June 24)
   * Convolutional Neural Networks for Image Processing
   * Deep Learning with PyTorch
   * Introduction to TensorFlow in Python
+
+According to your [roadmap](https://trello.com/b/BLplifUB/datacamp-course-roadmap), these are "in development" courses whose contents I would like to check in more detail:
+
+  * Recurrent Neural Networks for Language Modeling in Python by David Cecchini
+  * Spoken Language Processing in Python by Daniel Bourke
 
 ## Competitor's portfolio
 
