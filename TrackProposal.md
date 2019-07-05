@@ -1,5 +1,9 @@
 # Skill Track: Deep Learning in Python
 
+Deep learning is having a tremendous success in artificial intelligence, from speech recognition to drug design. Learn the fundamental concepts and start building deep neural networks with state-of-the-art libraries.
+
+*Note*: the track is composed of 6 existing courses and 2 newly proposed courses. See [TaskAnalysis](TaskAnalysis.md) for the motivation.
+
 ## 1 - [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
 ## 2 - [Deep Learning with Keras in Python](https://www.datacamp.com/courses/deep-learning-with-keras-in-python)
 (Live since June 28)
