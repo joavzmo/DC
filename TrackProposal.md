@@ -39,6 +39,7 @@ Live since June 28, 2019.
     * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
 
 ## 4 - [Convolutional Neural Networks for Image Processing](https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing)
+**_Note_**: *For consistency, I would add "in Python" to the title.*
 "Deep learning methods use data to train neural network algorithms to do a variety of machine learning tasks, such as classification of different classes of objects. Convolutional neural networks are deep learning algorithms that are particularly powerful for analysis of images. This course will teach you how to construct, train and evaluate convolutional neural networks. You will also learn how to improve their ability to learn from data, and how to interpret the results of the training."
 
   * Learning objectives
@@ -48,7 +49,7 @@ Live since June 28, 2019.
   * Prerequisites
     * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
   
-## 5 - Recurrent Neural Networks for Text Processing
+## 5 - Recurrent Neural Networks for Text Processing in Python
 **_Note_**: *The course **_Recurrent Neural Networks for Language Modeling in Python by David Cecchini_**, currently in development, could be well suited here. I would like to check its contents in detail.*
 
   * Learning objectives
@@ -58,7 +59,7 @@ Live since June 28, 2019.
   * Prerequisites
     * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
   
-## 6 - Generative Deep Learning with Keras in Python
+## 6 - Generative Deep Learning in Python
   * Learning objectives
     * Learner will be able to
     * Learner will be able to
