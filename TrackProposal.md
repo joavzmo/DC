@@ -17,12 +17,11 @@ Deep learning is having a tremendous success in artificial intelligence, from sp
 ## 2 - [Deep Learning with Keras in Python](https://www.datacamp.com/courses/deep-learning-with-keras-in-python)
 **_Note_**: *This course has substantial overlap with 1, which, in my opinion, has much higher quality. I would discuss with my manager the possibility of dropping this course from the track.*
 
+"Deep learning is here to stay! It's the go-to technique to solve complex problems that arise with unstructured data and an incredible tool for innovation. Keras is one of the frameworks that make it easier to start developing deep learning models, and it's versatile enough to build industry-ready models in no time. In this course, you will learn regression and save the earth by predicting asteroid trajectories, apply binary classification to distinguish between real and fake dollar bills, use multiclass classification to decide who threw which dart at a dart board, learn to use neural networks to reconstruct noisy images and much more. Additionally, you will learn how to better control your models during training and how to tune them to boost their performance."
 Live since June 28
 
-"Deep learning is here to stay! It's the go-to technique to solve complex problems that arise with unstructured data and an incredible tool for innovation. Keras is one of the frameworks that make it easier to start developing deep learning models, and it's versatile enough to build industry-ready models in no time. In this course, you will learn regression and save the earth by predicting asteroid trajectories, apply binary classification to distinguish between real and fake dollar bills, use multiclass classification to decide who threw which dart at a dart board, learn to use neural networks to reconstruct noisy images and much more. Additionally, you will learn how to better control your models during training and how to tune them to boost their performance."
-
   * Learning objectives
-    * Learner will be able to interpret more advanced neural network metrics and architectures
+    * Learner will be able to interpret more advanced neural network metrics and architectures.
     * Learner will be able to select more adequate parameters for building and validating a neural network.
   * Prerequisites
     * [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
