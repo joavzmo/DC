@@ -6,10 +6,10 @@ This document explains the rationale behind the curriculum design of the **Deep 
 
 The new track must be: 
   * **Useful from day 1**: it must expose the learner to the main current deep learning tools in Python: Keras, PyTorch and TensorFlow.
-  * **In line with the DataCamp philosophy**: it must be interesting and accessible to wide audiences, and build advanced knowledge from simple concepts.
+  * **In line with the DataCamp philosophy**: it must be interesting and accessible to wide audiences, progressively building advanced knowledge from simple concepts, without getting lost in the mathematical details.
   * **Efficient**: it should include as many relevant existing courses as possible, avoiding substantial overlap.
 
-## Analysis of DataCamp's portfolio
+## Analysis of the DataCamp's portfolio
 
 These are current courses that are directly relevant to the track:
 
@@ -20,18 +20,18 @@ These are current courses that are directly relevant to the track:
   * [Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)
   * [Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
 
-According to your [roadmap](https://trello.com/b/BLplifUB/datacamp-course-roadmap), these are "in development" courses whose contents I would like to check in more detail:
+According to [DataCamp's roadmap](https://trello.com/b/BLplifUB/datacamp-course-roadmap), these are "in development" courses whose contents I would like to check in more detail:
 
   * Recurrent Neural Networks for Language Modeling in Python by David Cecchini
   * Spoken Language Processing in Python by Daniel Bourke
 
-## Analysis of competitor's portfolio
+## Analysis of the competitor's portfolio
 
 There are plenty of Deep Learning online courses available. Some of our most relevant competitors are:
 
-  * Coursera: Deep Learning Specialization
-  * edX: IBM's Deep Learning
-  * Udemy: Deep Learning A-Z™: Hands-On Artificial Neural Networks
+  * **Coursera**: Deep Learning Specialization
+  * **edX**: IBM's Deep Learning
+  * **Udemy**: Deep Learning A-Z™: Hands-On Artificial Neural Networks
 
 ## Annotated bibliography
   * François Chollet, *Deep Learning with Python*, Manning Publications, 2018
@@ -41,4 +41,4 @@ There are plenty of Deep Learning online courses available. Some of our most rel
   * Andrew W. Trask, *Grokking Deep Learning*, Manning Publications, 2019
     * Very easy to read, recent reference.
   * Andrew Ng & Kian Katanforoosh, CS230 Deep Learning (Spring 2019), Stanford University.
-    * By the authors of the coursera specialization, with the advantage of having all the materials available in the [course website](http://cs230.stanford.edu/).
+    * By the authors of the Coursera specialization, with the advantage of having all the materials available in the [course website](http://cs230.stanford.edu/).
