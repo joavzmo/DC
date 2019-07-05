@@ -79,7 +79,7 @@ Live since June 24, 2019.
 
   * Learning objectives
     * Learner will be able to understand tensors and tensor operations in TensorFlow.
-    * Learner will be able to compare the implementation of deep neural networks with a low-level (TensorFlow) VS a high-level approach (Keras).
+    * Learner will be able to compare the implementation of deep neural networks with a low-level approach (TensorFlow) VS a high-level approach (Keras).
     * Learner will be able to use the Estimators API to streamline the model definition and training process and to avoid errors.
   * Prerequisites:
     * [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
