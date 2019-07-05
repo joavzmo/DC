@@ -75,3 +75,11 @@ Live since June 24, 2019.
     * [Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python)
 
 ## 8 - [Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
+"Not long ago, cutting edge computer vision algorithms couldn’t differentiate between images of cats and dogs. Today, a skilled data scientist equipped with nothing more than a laptop can classify tens of thousands of objects with greater accuracy than the human eye. In this course, you will use TensorFlow 2.0 to develop, train, and make predictions with the models that have powered major advances in recommendation systems, image classification, and FinTech. You will learn both high-level APIs, which will enable you to design and train deep learning models in 15 lines of code; and low-level APIs, which will allow you to move beyond off-the-shelf routines. You will also learn to accurately predict house prices, credit card borrower defaults, and images of sign-language gestures."
+
+  * Learning objectives
+    * Learner will be able to understand tensors and tensor operations in TensorFlow.
+    * Learner will be able to compare the implementation of deep neural networks with a low-level (TensorFlow) VS a high-level approach (Keras).
+    * Learner will be able to use the Estimators API to streamline the model definition and training process and to avoid errors.
+  * Prerequisites:
+    * [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
