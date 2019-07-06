@@ -45,7 +45,7 @@ Live since June 28, 2019.
 
 ## 4 - [Convolutional Neural Networks for Image Processing](https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing)
 
-**_Note_**: *For consistency, I would add "in Python" to the title.*
+**_Note_**: *For consistency, I would add "in Python" to the title, unless it becomes too long for your standards.*
 
 "Deep learning methods use data to train neural network algorithms to do a variety of machine learning tasks, such as classification of different classes of objects. Convolutional neural networks are deep learning algorithms that are particularly powerful for analysis of images. This course will teach you how to construct, train and evaluate convolutional neural networks. You will also learn how to improve their ability to learn from data, and how to interpret the results of the training."
 
