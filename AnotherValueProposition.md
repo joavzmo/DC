@@ -20,4 +20,4 @@
   * Nurture the relationship with the academic institutions leading those consortiums, express our determination to contribute and convince them of our added value.
   * Join their next grant preparations and become an active partner.
   * Timeframe: it will take a few years to get the first grant, but once the process and relationships are established, we can expect a continuous income from public funding.
-  * Cost: building the necessary trust and preparing the grant applications is not a full time job, I could do it as part of my duties.
+  * Neglectable cost: building the necessary trust and preparing the grant applications has to be a constant task, but it is not a full time job. I could do it as part of my duties as a Project Manager - Data Science Curriculum.
