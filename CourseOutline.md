@@ -12,14 +12,14 @@
   * Learner will be able to distinguish between greedy and stochastic sampling.
   * Learner will be able to create a function that reweights a given probability distribution to control the degree of stochasticity.
 
-### Lesson 1.3: Parsing the Nietzsche dataset
+### Lesson 1.3: Parsing the *philosopher* dataset
 
-  * Learner will be able to understand the Nietzsche dataset, which contains many texts from the German philosopher.
+  * Learner will be able to understand the *philosopher* dataset, which contains many texts from {choose your favorite philosopher}.
   * Learner will be able to use keras.utils.get_file to load the dataset from the web.
 
 ### Lesson 1.4: Vectorizing sequences of characters
 
-  * Learner will be able to prepare the training and target data to be used later in a later model.fit; this is achieved extracting partially overlapping sequences from the Nietzsche dataset, together with the characters that come after each sequence. 
+  * Learner will be able to prepare the training and target data to be used later in a later model.fit; this is achieved extracting partially overlapping sequences from the *philosopher* dataset, together with the characters that come after each sequence. 
 
 ## Chapter 2: Implementing a text generator with Keras
 
@@ -33,7 +33,7 @@
 
 ### Lesson 2.3: The artificial text generation loop
 
-  * Learner will be able to create a loop of the previous function that generates a full text.
+  * Learner will be able to create a loop of the previous function that generates a full text, inspired in the philosopher's style.
 
 ### Lesson 2.4: The effect of temperature on the generated text
 
