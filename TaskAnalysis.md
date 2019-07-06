@@ -34,11 +34,11 @@ There are plenty of Deep Learning online courses available. Some of our most rel
   * **Udemy**: Deep Learning A-Z™: Hands-On Artificial Neural Networks
 
 ## Annotated bibliography
-  * François Chollet, *Deep Learning with Python*, Manning Publications, 2018
+  * François Chollet, *Deep Learning with Python*. Manning Publications, 2018
     * Hands-on reference written by the creator of Keras, perfect for educated beginners.
-  * Ian Goodfellow et al, *Deep Learning*, MIT Press, 2016
+  * Ian Goodfellow et al, *Deep Learning*. MIT Press, 2016
     * A bible in the field, more adequate for researchers, available [here](http://www.deeplearningbook.org/)
-  * Andrew W. Trask, *Grokking Deep Learning*, Manning Publications, 2019
+  * Andrew W. Trask, *Grokking Deep Learning*. Manning Publications, 2019
     * Very easy to read, recent reference.
   * Andrew Ng & Kian Katanforoosh, CS230 Deep Learning (Spring 2019), Stanford University.
     * By the authors of the Coursera specialization, with the advantage of having all the materials available in the [course website](http://cs230.stanford.edu/).
