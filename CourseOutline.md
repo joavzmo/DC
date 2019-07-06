@@ -5,6 +5,7 @@
 ### Lesson 1.1: Introducing generative deep learning
 
   * Learner will be able to name some of the recent applications of generative deep learning.
+  * Learner will be able to understand the potential of generative deep learning.
 
 ### Lesson 1.2: Reweighting probability distributions with the softmax temperature
 
@@ -18,17 +19,17 @@
 
 ### Lesson 1.4: Vectorizing sequences of characters
 
-  * Learner will be able to prepare the training and target data to be used in a later model.fit; this is achieved extracting partially overlapping sequences from the Nietzsche dataset, together with the characters that come after each sequence. 
+  * Learner will be able to prepare the training and target data to be used later in a later model.fit; this is achieved extracting partially overlapping sequences from the Nietzsche dataset, together with the characters that come after each sequence. 
 
 ## Chapter 2: Implementing a text generator with Keras
 
 ### Lesson 2.1: Creating a Long Short Term Memory neural network for character prediction
 
-  * Learner will be able to
+  * Learner will be able to create a neural network suited for character prediction; this is achieved compiling a neuran network with a Long Short Term Memory layer.
 
 ### Lesson 2.2: A sampling function based on model's predictions
 
-  * Learner will be able to
+  * Learner will be able to create a function that generates new text based on the model's prediction and a given softmax temperature.
 
 ### Lesson 2.3: The artificial text generation loop
 
