@@ -33,7 +33,7 @@
 
 ### Lesson 2.3: The artificial text generation loop
 
-  * Learner will be able to create a loop of the previous function that creates a text.
+  * Learner will be able to create a loop of the previous function that generates a full text.
 
 ### Lesson 2.4: The effect of temperature on the generated text
 
