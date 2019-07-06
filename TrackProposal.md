@@ -1,4 +1,4 @@
-**_Note_**: *the track is composed of six existing courses (1, 2, 3, 4, 7, 8) and two newly proposed courses (5, 6). See [TaskAnalysis.md](TaskAnalysis.md) for the rationale behind it. For the existing courses, the marketing description and prerequisites are copied from the course website. The learning objectives, however, are written by me based on the course contents.*
+**_Note_**: *the track is composed of six existing courses (1, 2, 3, 4, 7, 8) and two newly proposed courses (5, 6). See [TaskAnalysis.md](TaskAnalysis.md) for the rationale behind it. For the existing courses, the marketing description is copied from the course website and shown here between quotes. The prerequisites are not modified. The learning objectives, however, are written by me based on the course contents.*
 
 # Skill Track: Deep Learning in Python
 
@@ -41,6 +41,7 @@ Live since June 28, 2019.
 
 ## 4 - [Convolutional Neural Networks for Image Processing](https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing)
 **_Note_**: *For consistency, I would add "in Python" to the title.*
+
 "Deep learning methods use data to train neural network algorithms to do a variety of machine learning tasks, such as classification of different classes of objects. Convolutional neural networks are deep learning algorithms that are particularly powerful for analysis of images. This course will teach you how to construct, train and evaluate convolutional neural networks. You will also learn how to improve their ability to learn from data, and how to interpret the results of the training."
 
   * Learning objectives
@@ -52,6 +53,7 @@ Live since June 28, 2019.
   
 ## 5 - Recurrent Neural Networks for Sequence Processing in Python
 **_Note_**: *The course **_Recurrent Neural Networks for Language Modeling in Python by David Cecchini_**, currently in development, could be well suited here. I would like to check its contents in detail.*
+
 Deep learning methods for sequence processing are showing outstanding potential in tasks such as automatic translation, timeseries forecasting, sentiment analysic or document classification. Recurrent neural networks are one of the main techniques to analyze sequential data where order matters, such as text or timeseries. They mimick the way humans read a book: processing the input word by word, but keeping the main storyline in mind. You will understand the main difference with other neural network approeaches and be able to predict tomorrow's temperature with a real dataset.
   * Learning objectives
     * Learner will be able to understand the main concepts regarding recurrent neural networks (RNNs), including Long Short Term Memory, Stacked RNNs and Bidirectional RNNs.
