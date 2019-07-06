@@ -80,7 +80,7 @@
   * Learner will be able to discover the current trends in generative deep learning.
   * **_Note_**: *I like when courses end up with a short interview to a renowned speaker. Would it be interesting to invite [the guys that first developed DeepDream](https://ai.googleblog.com/2015/07/deepdream-code-example-for-visualizing.html)?*
 
-# Notes
+## References
 
 This outline is mainly based on:
 
