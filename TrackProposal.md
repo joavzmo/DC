@@ -52,7 +52,7 @@ Live since June 28, 2019.
   * Prerequisites
     * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
   
-## 5 - Recurrent Neural Networks for Sequence Processing in Python
+## 5 - Recurrent Neural Networks for Sequence Processing in Python (NEW)
 **_Note_**: *The course **_Recurrent Neural Networks for Language Modeling in Python by David Cecchini_**, currently in development, could be well suited here. I would like to check its contents in detail. According to [DataCamp's roadmap](https://trello.com/b/BLplifUB/datacamp-course-roadmap), the expected live date is September 26, 2019.*
 
 Deep learning methods for sequence processing are showing outstanding potential in tasks such as automatic translation, timeseries forecasting, sentiment analysic or document classification. Recurrent neural networks are one of the main techniques to analyze sequential data where order matters, such as text or timeseries. They mimick the way humans read a book: processing the input word by word, but keeping the main storyline in mind. You will understand the main difference with other neural network approeaches and be able to predict tomorrow's temperature with a real dataset.
@@ -62,7 +62,7 @@ Deep learning methods for sequence processing are showing outstanding potential 
   * Prerequisites
     * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
   
-## 6 - Generative Deep Learning in Python
+## 6 - Generative Deep Learning in Python (NEW)
   * Learning objectives
     * Learner will be able to
     * Learner will be able to
