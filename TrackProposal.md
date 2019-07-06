@@ -74,7 +74,7 @@ Neural networks are already able to create original and meaningful cultural cont
   * Learning objectives
     * Learner will be able to understand the potential and fundamental concepts of generative deep learning.
     * Learner will be able to use generative recurrent networks to create artificial text.
-    * Learner will be able to create artifical images based on Google's Deep Dream algorithm.
+    * Learner will be able to create artifical images based on Google's DeepDream algorithm.
   * Prerequisites
     * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
   
