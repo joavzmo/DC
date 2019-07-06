@@ -56,7 +56,7 @@ Live since June 28, 2019.
   * Prerequisites
     * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
   
-## 5 - Recurrent Neural Networks for Sequence Processing in Python (NEW)
+## 5 - Recurrent Neural Networks for Sequence Processing in Python (new)
 
 **_Note_**: *The course **_Recurrent Neural Networks for Language Modeling in Python by David Cecchini_**, currently in development, could be well suited here. I would like to check its contents in detail. According to [DataCamp's roadmap](https://trello.com/b/BLplifUB/datacamp-course-roadmap), the expected live date is September 26, 2019.*
 
@@ -67,7 +67,7 @@ Deep learning methods for sequence processing are showing outstanding potential 
   * Prerequisites
     * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
   
-## 6 - Generative Deep Learning in Python (NEW, [check outline](CourseOutline.md))
+## 6 - Generative Deep Learning in Python (new, [check outline](CourseOutline.md))
 
 Neural networks are already able to create original and meaningful cultural content, from Google's DeepDream psychedelic artwork to artifical electronic music. In this course your technical skills will develop to meet your inner artist. You will do the transition from *passive* prediction and classification tasks to *active* content generation with neural networks. Bring your creativity to the limit, generate captivating images and write your first artificial Treatise on Philosophy.
 
