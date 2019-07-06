@@ -29,15 +29,16 @@
 
 ### Lesson 2.2: A sampling function based on model's predictions
 
-  * Learner will be able to create a function that generates new text based on the model's prediction and a given softmax temperature.
+  * Learner will be able to create a function that generates new characters based on the model's prediction and a given softmax temperature.
 
 ### Lesson 2.3: The artificial text generation loop
 
-  * Learner will be able to 
+  * Learner will be able to create a loop of the previous function that creates a text.
 
 ### Lesson 2.4: The effect of temperature on the generated text
 
-  * Learner will be able to
+  * Learner will be able to experiment with the effects of the softmax temperature in the artificial text.
+  * Learner will be able to judge the potential of deep learning for text generation.
 
 ## Chapter 3: Generative deep learning for images
 
