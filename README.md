@@ -8,9 +8,10 @@ All files have been anonymized to prevent conflicts with my current employer.
 
 ## Deliverables
 
-  * [TrackProposal](TrackProposal.md)
-  * [CourseOutline](CourseOutline.md)
-  * [SampleExercise](SampleExercise.md)
+  * [Track Proposal](TrackProposal.md)
+  * [Course Outline](CourseOutline.md)
+  * [Sample Exercise](SampleExercise.md)
   
 ## Other documents
-  * [TaskAnalysis](TaskAnalysis.md)
+  * [Task Analysis](TaskAnalysis.md)
+  * [Value Proposition](ValueProposition.md)
