@@ -1,6 +1,6 @@
 # Generative Deep Learning in Python
 
-## Chapter 1: 
+## Chapter 1: Generative deep learning for text
 
 ### Lesson 1.1: Introducing generative deep learning
 
@@ -18,7 +18,7 @@
 
   * Learning objective: 
 
-## Chapter 2
+## Chapter 2: Implementing a text generator with Keras
 
 ### Lesson 2.1: Creating a Long Short Term Memory neural network for character prediction
 
@@ -54,7 +54,7 @@
 
   * Learning objective: 
 
-## Chapter 4: Implementing Deep Dream in Keras
+## Chapter 4: Implementing DeepDream with Keras
 
 ### Lesson 4.1: Some auxiliary functions
 
@@ -71,3 +71,11 @@
 ### Lesson 4.4: The future of generative deep learning
 
   * Learning objective: 
+
+# Notes
+
+This outline is mainly based on:
+
+  * François Chollet, "Chapter 8: Generative Deep Learning," in *Deep Learning with Python*, Manning Publications, 2018
+  
+In reality, as project manager, I would work with the legal team and the course instructor to ensure that there are no copyright issues with the code and datasets employed.
