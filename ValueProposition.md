@@ -6,7 +6,7 @@
   * Gain visibility and prestige among top players in the statistics sector.
   
 ## Motivation
-  * I have experience in European grant applications, from grant preparation to project management and reporting.
+  * I have experience in [European public research funding](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home), from grant preparation to project management and reporting.
   * EU grants are extremely competitive, but provide very generous funds during several years. The next funding framework, Horizon Europe, will have a budget of €100bn for 2021-2027.
   * Successful consortiums usually include a partner in charge of a "Dissemination" work package. In my experience, the reach and impact of the dissemination actions is limited, partly becasue of the will to protect business secrets.
   * DataCamp is a natural partner for this Dissemination work package. It has the infrastructure, the interest and the reach.
