@@ -2,10 +2,10 @@
 
 # Skill Track: Deep Learning in Python
 
-Deep learning is having a tremendous success in artificial intelligence, from speech recognition to drug design. Learn its fundamental concepts and start building deep neural networks with state-of-the-art libraries.
+Deep learning is having a tremendous success in artificial intelligence, from speech recognition to drug design. Learn its fundamental concepts and start building deep neural networks with state-of-the-art Python libraries.
 
 ## 1 - [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
-**_Note_**: *to avoid giving the same name to the track and one of its courses, this title could be changed to Introduction to Deep Learning in Python.*
+**_Note_**: *to avoid giving the same name to the track and one of its courses, this title could be changed to **Introduction to Deep Learning in Python**.*
 
 **_Note_**: *this is also the last course of the Machine Learning with Python Skill Track, which I do not consider a problem. On the contrary, it provides a natural bridge between the two skill tracks.*
 "Deep learning is the machine learning technique behind the most exciting capabilities in diverse areas like robotics, natural language processing, image recognition and artificial intelligence (including the famous AlphaGo). In this course, you'll gain hands-on, practical knowledge of how to use deep learning with Keras 2.0, the latest version of a cutting edge library for deep learning in Python."
@@ -50,13 +50,12 @@ Live since June 28, 2019.
   * Prerequisites
     * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
   
-## 5 - Recurrent Neural Networks for Text Processing in Python
+## 5 - Recurrent Neural Networks for Sequence Processing in Python
 **_Note_**: *The course **_Recurrent Neural Networks for Language Modeling in Python by David Cecchini_**, currently in development, could be well suited here. I would like to check its contents in detail.*
-
+Deep learning methods for sequence processing are showing outstanding potential in tasks such as automatic translation, timeseries forecasting, sentiment analysic or document classification. Recurrent neural networks are one of the main techniques to analyze sequential data where order matters, such as text or timeseries. They mimick the way humans read a book: processing the input word by word, but keeping the main storyline in mind. You will understand the main difference with other neural network approeaches and be able to predict tomorrow's temperature with a real dataset.
   * Learning objectives
-    * Learner will be able to
-    * Learner will be able to
-    * Learner will be able to
+    * Learner will be able to understand the main concepts regarding recurrent neural networks (RNNs), including Long Short Term Memory, Stacked RNNs and Bidirectional RNNs.
+    * Learner will be able to create and use recurrent neural networks with Keras.
   * Prerequisites
     * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
   
