@@ -10,5 +10,5 @@ July 7, 2019.
   * [CourseOutline](CourseOutline.md)
   * [SampleExercise](SampleExercise.md)
   
-## Other 
+## Other documents
   * [TaskAnalysis](TaskAnalysis.md)
