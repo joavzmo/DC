@@ -1,6 +1,6 @@
 # Take Home Test
 
-For the position of **Project Manager - Data Science Curriculum.** at DataCamp.
+For the position of **Project Manager - Data Science Curriculum** at DataCamp.
 
 July 7, 2019.
 
