@@ -14,4 +14,4 @@ All files have been anonymized to prevent conflicts with my current employer.
   
 ## Other documents
   * [Task Analysis](TaskAnalysis.md)
-  * [Value Proposition](ValueProposition.md)
+  * [Value Proposition: Research Funded Projects](ValueProposition.md)
