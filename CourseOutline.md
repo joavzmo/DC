@@ -36,38 +36,38 @@
 
   * Learning objective: 
 
-## Chapter 3
+## Chapter 3: Generative deep learning for images
 
-### Lesson 3.1
-
-  * Learning objective: 
-
-### Lesson 3.2
+### Lesson 3.1: Visual art with generative deep learning 
 
   * Learning objective: 
 
-### Lesson 3.3
+### Lesson 3.2: DeepDream's Inception model
 
   * Learning objective: 
 
-### Lesson 3.4
+### Lesson 3.3: Defining the loss to be maximized
 
   * Learning objective: 
 
-## Chapter 4
-
-### Lesson 4.1
+### Lesson 3.4: The gradient-ascent process
 
   * Learning objective: 
 
-### Lesson 4.2
+## Chapter 4: Implementing Deep Dream in Keras
+
+### Lesson 4.1: Some auxiliary functions
 
   * Learning objective: 
 
-### Lesson 4.3
+### Lesson 4.2: Looping over scales
 
   * Learning objective: 
 
-### Lesson 4.4
+### Lesson 4.3: The effect of the size ratio between scales
+
+  * Learning objective: 
+
+### Lesson 4.4: The future of generative deep learning
 
   * Learning objective: 
