@@ -76,6 +76,6 @@
 
 This outline is mainly based on:
 
-  * François Chollet, "Chapter 8: Generative Deep Learning," in *Deep Learning with Python*, Manning Publications, 2018
+  * François Chollet, "Chapter 8: Generative Deep Learning," in *Deep Learning with Python*, Manning Publications, 2018.
   
 In reality, as project manager, I would work with the legal team and the course instructor to ensure that there are no copyright issues with the code and datasets employed.
