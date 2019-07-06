@@ -69,7 +69,7 @@ Deep learning methods for sequence processing are showing outstanding potential 
   
 ## 6 - Generative Deep Learning in Python (NEW)
 
-Neural networks are already able to create original and meaningful cultural content, from Google's Deep Dream psychodelic artwork to artifical electronic music. In this course your technical skills will develop to meet your inner artist. You will jump from *passive* prediction and classification tasks to *active* content generation. Bring your creativity to the limit, generate captivating images and write your first artificial Treatise on Philosophy.
+Neural networks are already able to create original and meaningful cultural content, from Google's DeepDream psychedelic artwork to artifical electronic music. In this course your technical skills will develop to meet your inner artist. You will do the transition from *passive* prediction and classification tasks to *active* content generation with neural networks. Bring your creativity to the limit, generate captivating images and write your first artificial Treatise on Philosophy.
 
   * Learning objectives
     * Learner will be able to understand the potential and fundamental concepts of generative deep learning.
