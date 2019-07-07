@@ -25,7 +25,7 @@
 
 ### Lesson 2.1: Creating a Long Short Term Memory neural network for character prediction
 
-  * Learner will be able to create a neural network suited for character prediction; this is achieved compiling a neuran network with a Long Short Term Memory layer.
+  * Learner will be able to create a neural network suited for character prediction.
 
 ### Lesson 2.2: A sampling function based on model's predictions
 
