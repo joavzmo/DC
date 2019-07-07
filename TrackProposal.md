@@ -10,6 +10,8 @@ Deep learning is having a tremendous success in artificial intelligence, from sp
 
 **_Note_**: *this is also the last course of the Machine Learning with Python Skill Track, which I do not consider a problem. On the contrary, it provides a natural bridge between the two skill tracks.*
 
+**_Note_**: *I would remove the first two prerequisites, because they are already a prerequisite of the third one. Unless we assume "transitivity of prerequisites", the list will grow very large as the number of courses in the platform increases. This is actually the case for other courses in the platform, for example for the rest of courses in this track. In any case, for the sake of consistency, I would like to discuss the prerequisites policy with my colleagues / supervisor.*
+
 "Deep learning is the machine learning technique behind the most exciting capabilities in diverse areas like robotics, natural language processing, image recognition and artificial intelligence (including the famous AlphaGo). In this course, you'll gain hands-on, practical knowledge of how to use deep learning with Keras 2.0, the latest version of a cutting edge library for deep learning in Python."
   * Learning objectives
     * Learner will be able to understand the fundamental concepts and terminology used in deep learning. 
@@ -18,8 +20,6 @@ Deep learning is having a tremendous success in artificial intelligence, from sp
     * [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
     * [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
     * [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
-    
-**_Note_**: *I would remove the first two prerequisites, because they are already a prerequisite of the third one. Unless we assume "transitivity of prerequisites", the list will grow very large as the number of courses in the platform increases. This is actually the case for other courses in the platform, for example for the rest of courses in this track. In any case, for the sake of consistency, I would like to discuss the prerequisites policy with my colleagues / supervisor.*
 
 ## 2 - [Deep Learning with Keras in Python](https://www.datacamp.com/courses/deep-learning-with-keras-in-python)
 
