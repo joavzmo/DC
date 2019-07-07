@@ -12,8 +12,8 @@
   * DataCamp is a natural partner for this Dissemination work package. It has the infrastructure, the interest and the reach.
   * DataCamp could join strong consortiums in statistical research and be in charge of creating advanced statistics courses to disseminate the project technical results.
   * These courses would have a reduced target audience, but their development and operation would come at no financial cost for DataCamp. It is all a matter of working with the finance team to include all real costs in the grant application.
-  * Being part of successful consortiums and having such courses in the portfolio bring marketing and partnership opportunities.
-  * There are also other actions that could be of interest for DataCamp, e.g. to fund PhD studends (MSCA-ITN) or staff exchange with our industrial and academic partners (MSCA-SE).
+  * Being part of successful consortiums and having such courses in the portfolio brings marketing and partnership opportunities.
+  * There are also other funded programs that could be of interest for DataCamp, e.g. to fund PhD studends (MSCA-ITN) or staff exchange with our industrial and academic partners (MSCA-SE).
   
 ## Action plan
   * Identify strong consortiums in the field of statistical research.
