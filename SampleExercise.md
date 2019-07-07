@@ -11,7 +11,7 @@ Remember that `maxlen` is a number specifying the length of the character sequen
 ## Instructions
 
   * Create a `Sequential` model called `model`.
-  * Add an `LSTM`layer with `128` units, and an `input_shape` equal to `(maxlen, len(chars_list))`.
+  * Add an `LSTM` layer with `128` units, and an `input_shape` equal to `(maxlen, len(chars_list))`.
   * Add a `Dense` output layer with the `softmax` activation function. How many units should it have?
   * Compile the model with the given `optimizer`, and `categorical_crossentropy` as the loss function.
 
