@@ -10,7 +10,7 @@ Deep learning is having a tremendous success in artificial intelligence, from sp
 
 **_Note_**: *this is also the last course of the [Machine Learning with Python Skill Track](https://www.datacamp.com/tracks/machine-learning-with-python), which I do not consider a problem. On the contrary, it provides a natural bridge between the two skill tracks.*
 
-**_Note_**: *I would remove the first two prerequisites, because they are already a prerequisite of the third one. Unless we assume "transitivity of prerequisites", the list will grow very large as the number of courses in the platform increases. This is actually the case for other courses in the platform, for example for the rest of courses in this track. In any case, for the sake of consistency, I would like to discuss the prerequisites policy with my colleagues / supervisor.*
+**_Note_**: *I would remove the first two prerequisites, because they are already a prerequisite of the third one. Unless we assume "transitivity of prerequisites", the list will grow very large as the number of courses in the platform increases. This policy is actually applied in other courses in the platform, for example for in rest of courses in this track. In any case, for the sake of consistency, I would like to discuss the prerequisites policy with my colleagues / supervisor.*
 
 "Deep learning is the machine learning technique behind the most exciting capabilities in diverse areas like robotics, natural language processing, image recognition and artificial intelligence (including the famous AlphaGo). In this course, you'll gain hands-on, practical knowledge of how to use deep learning with Keras 2.0, the latest version of a cutting edge library for deep learning in Python."
   * Learning objectives
