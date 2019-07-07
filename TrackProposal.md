@@ -1,4 +1,4 @@
-**_Note_**: *the track is composed of six existing courses (1, 2, 3, 4, 7, 8) and two newly proposed courses (5, 6). See [TaskAnalysis.md](TaskAnalysis.md) for the rationale behind it. For the existing courses, the marketing description is copied from the course website and shown here between quotes. The prerequisites are not modified. The learning objectives, however, are created based on the course contents.*
+**_Note_**: *the track is composed of six existing courses (1, 2, 3, 4, 7, 8) and two newly proposed courses (5, 6). See [TaskAnalysis.md](TaskAnalysis.md) for the rationale behind it. **For the existing courses, the marketing description is copied from the course website and shown here between quotes**. The prerequisites are not modified. The learning objectives, however, are created based on the course contents.*
 
 # Skill Track: Deep Learning in Python
 
