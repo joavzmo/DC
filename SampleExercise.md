@@ -61,5 +61,6 @@ This message sohuld pop up upon successful submission:
 
 ## Notes
   * I would work with the Content Developers and Quality Analysts to create solid unit tests for the exercises.
-  * We can choose an actual philosopher and directly refer to him in the exercise. In the reference that I consulted, writings of Nietzsche are used.
+  * We can choose an actual philosopher and directly refer to him in the exercise. In the main reference that was used for this exercise, writings of Nietzsche are used.
+    * François Chollet, "Chapter 8: Generative Deep Learning," in *Deep Learning with Python*, Manning Publications, 2018.
   * Assessed learning objective: *Learner will be able to create a neural network suited for character prediction.*
