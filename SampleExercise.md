@@ -27,7 +27,7 @@ from keras.optimizers import RMSprop
 
 # Specify the model
 model = ___
-model._\_\_(___(___, input_shape=___)))
+model.\_\_\_(___(___, input_shape=___)))
 model.___(___(___, activation='softmax'))
 
 # Compile the model
