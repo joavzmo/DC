@@ -11,11 +11,12 @@ Remember that `maxlen` is a number specifying the length of the character sequen
 ## Instructions
 
   * Create a `Sequential` model called `model`.
-  * Add an `LSTM`layer with `128` units, and and `input_shape` equal to `(maxlen, len(chars_list)`.
+  * Add an `LSTM`layer with `128` units, and and `input_shape` equal to `(maxlen, len(chars_list))`.
   * Add a `Dense` output layer with the `softmax` activation function. How many units should it have?
+  * Compile the model with the given `optimizer` and `categorical_crossentropy` as the loss function.
 
 ## Take Hint
-  * The number of units in the output layer should be equal to `len(chars_list)`. This is the number of unique characters in the philosopher's writings, and those are the characters that we want in our artificial text.
+  * The number of units in the output layer should be `len(chars_list)`. This is the number of unique characters in the philosopher's writings, and those are the characters that we want in our artificial text.
 
 ## Shown script
 
@@ -27,17 +28,13 @@ from keras.optimizers import RMSprop
 
 # Specify the model
 model = ___
-model.\_\_\_(___(___, input_shape=___)))
-model.___(___(___, activation='softmax'))
+model.___(___(___, input_shape = ___))
+model.___(___(___, activation = ___))
 
 # Compile the model
-optimizer = RMSprop(lr=0.01)
-model.compile(loss='categorical_crossentropy', optimizer=optimizer)
+optimizer = RMSprop(lr = 0.01)
+model.compile(optimizer = optimizer, loss = ___)
 ```
-
-
-len(chars_list)
-
 
 ## Full solution
 
@@ -49,12 +46,12 @@ from keras.optimizers import RMSprop
 
 # Specify the model
 model = Sequential()
-model.add(LSTM(128, input_shape=(maxlen, len(chars_list))))
-model.add(Dense(len(chars_list), activation='softmax'))
+model.add(LSTM(128, input_shape = (maxlen, len(chars_list))))
+model.add(Dense(len(chars_list), activation = 'softmax'))
 
 # Compile the model
-optimizer = RMSprop(lr=0.01)
-model.compile(loss='categorical_crossentropy', optimizer=optimizer)
+optimizer = RMSprop(lr = 0.01)
+model.compile(optimizer = optimizer, loss = 'categorical_crossentropy')
 ```
 
 ## Motivational feedback message
@@ -62,4 +59,4 @@ model.compile(loss='categorical_crossentropy', optimizer=optimizer)
 ## Tests
 
 ## Note
-  * We can choose an actual philosopher and directly refer to him in the exercise. In the reference I used, writings of Nietzsche are used.
+  * We can choose an actual philosopher and directly refer to him in the exercise. In the reference that I consulted, writings of Nietzsche are used.
