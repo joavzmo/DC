@@ -8,7 +8,7 @@ Deep learning is having a tremendous success in artificial intelligence, from sp
 
 **_Note_**: *to avoid giving the same name to the track and one of its courses, this title could be changed to **Introduction to Deep Learning in Python**.*
 
-**_Note_**: *this is also the last course of the Machine Learning with Python Skill Track, which I do not consider a problem. On the contrary, it provides a natural bridge between the two skill tracks.*
+**_Note_**: *this is also the last course of the [Machine Learning with Python Skill Track](https://www.datacamp.com/tracks/machine-learning-with-python), which I do not consider a problem. On the contrary, it provides a natural bridge between the two skill tracks.*
 
 **_Note_**: *I would remove the first two prerequisites, because they are already a prerequisite of the third one. Unless we assume "transitivity of prerequisites", the list will grow very large as the number of courses in the platform increases. This is actually the case for other courses in the platform, for example for the rest of courses in this track. In any case, for the sake of consistency, I would like to discuss the prerequisites policy with my colleagues / supervisor.*
 
