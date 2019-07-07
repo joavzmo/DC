@@ -19,7 +19,7 @@
 
 ### Lesson 1.4: Vectorizing sequences of characters
 
-  * Learner will be able to prepare the training and target data to be used later in a later *model.fit*; this is achieved extracting partially overlapping sequences from the *philosopher* dataset, together with the characters that come after each sequence. 
+  * Learner will be able to prepare the training and target data to be used later in a *model.fit*; this is achieved extracting partially overlapping sequences from the *philosopher* dataset, together with the characters that come after each sequence. 
 
 ## Chapter 2: Implementing a text generator with Keras
 
