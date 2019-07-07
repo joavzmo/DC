@@ -59,9 +59,7 @@ model.compile(optimizer = optimizer, loss = 'categorical_crossentropy')
 This message sohuld pop up upon successful submission:
   * Well done! With this model you will soon write like a philosopher.
 
-## Tests
-
+## Notes
   * I would work with the Content Developers and Quality Analysts to create solid unit tests for the exercises.
-
-## Note
   * We can choose an actual philosopher and directly refer to him in the exercise. In the reference that I consulted, writings of Nietzsche are used.
+  * Assessed learning objective: *Learner will be able to create a neural network suited for character prediction.*
