@@ -4,7 +4,7 @@ Exercise corresponding to the course [Generative Deep Learning in Python](Course
 
 ## Context
 
-Now that you pre-processed the writings of the philosopher, you will create the neural network model. The model will later be used to predict the next character in the artificial generated text.
+Now that you pre-processed the writings of the philosopher, you will create the neural network model. The model will later be used to predict the next character in the artificially generated text.
 
 Remember that `maxlen` is a number specifying the length of the character sequences that you extracted, and that `chars_list` is a sorted list of the unique characters in the writings. Both are pre-loaded.
 
