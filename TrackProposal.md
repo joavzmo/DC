@@ -15,7 +15,8 @@ Deep learning is having a tremendous success in artificial intelligence, from sp
     * Learner will be able to understand the fundamental concepts and terminology used in deep learning. 
     * Learner will be able to create neural networks with the Specify-Compile-Fit-Optimize-Validate Keras workflow.
   * Prerequisites
-    * [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science) (I would remove this prerequisite, because it is already a prerequisite of Intermediate Python for Data Science).
+    * [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+      * I would remove this prerequisite, because it is already a prerequisite of Intermediate Python for Data Science.
     * [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
     * [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
 
