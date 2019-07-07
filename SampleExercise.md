@@ -11,9 +11,9 @@ Remember that `maxlen` is a number specifying the length of the character sequen
 ## Instructions
 
   * Create a `Sequential` model called `model`.
-  * Add an `LSTM`layer with `128` units, and and `input_shape` equal to `(maxlen, len(chars_list))`.
+  * Add an `LSTM`layer with `128` units, and an `input_shape` equal to `(maxlen, len(chars_list))`.
   * Add a `Dense` output layer with the `softmax` activation function. How many units should it have?
-  * Compile the model with the given `optimizer` and `categorical_crossentropy` as the loss function.
+  * Compile the model with the given `optimizer`, and `categorical_crossentropy` as the loss function.
 
 ## Take Hint
   * The number of units in the output layer should be `len(chars_list)`. This is the number of unique characters in the philosopher's writings, and those are the characters that we want in our artificial text.
@@ -56,7 +56,12 @@ model.compile(optimizer = optimizer, loss = 'categorical_crossentropy')
 
 ## Motivational feedback message
 
+This message sohuld pop up upon successful submission:
+  * Well done! With this model you will soon write like a philosopher.
+
 ## Tests
+
+  * I would work with the Content Developers and Quality Analysts to create solid unit tests for the exercises.
 
 ## Note
   * We can choose an actual philosopher and directly refer to him in the exercise. In the reference that I consulted, writings of Nietzsche are used.
