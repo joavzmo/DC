@@ -10,6 +10,10 @@ Remember that `maxlen` is a number specifying the length of the character sequen
 
 ## Instructions
 
+  * Create a `Sequential` model called `model`.
+  * Add a `LSTM`layer with `128` units, and and `input_shape` equal to `(maxlen, len(chars_list)`.
+
+
 ## Shown script
 
 ```python
@@ -19,9 +23,9 @@ from keras.models import Sequential
 from keras.optimizers import RMSprop
 
 # Specify the model
-model = Sequential()
-model.add(LSTM(128, input_shape=(maxlen, len(char_list))))
-model.add(Dense(len(chars), activation='softmax'))
+model = ___
+model.___(___(___, input_shape=___)))
+model.add(Dense(len(chars_list), activation='softmax'))
 
 # Compile the model
 optimizer = RMSprop(lr=0.01)
@@ -39,7 +43,7 @@ from keras.optimizers import RMSprop
 # Specify the model
 model = Sequential()
 model.add(LSTM(128, input_shape=(maxlen, len(chars_list))))
-model.add(Dense(len(chars), activation='softmax'))
+model.add(Dense(len(chars_list), activation='softmax'))
 
 # Compile the model
 optimizer = RMSprop(lr=0.01)
