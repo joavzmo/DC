@@ -16,9 +16,10 @@ Deep learning is having a tremendous success in artificial intelligence, from sp
     * Learner will be able to create neural networks with the Specify-Compile-Fit-Optimize-Validate Keras workflow.
   * Prerequisites
     * [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
-      - I would remove this prerequisite, because it is already a prerequisite of [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science).
     * [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
     * [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
+    
+**_Note_**: *I would remove the first two prerequisites, because they are already a prerequisite of the third one. Unless we assume "transitivity of prerequisites", the list will grow very large as the number of courses in the platform increases. This is actually the case for other courses in the platform, for example for the rest of courses in this track. In any case, for the sake of consistency, I would like to discuss the prerequisites policy with my colleagues / supervisor.*
 
 ## 2 - [Deep Learning with Keras in Python](https://www.datacamp.com/courses/deep-learning-with-keras-in-python)
 
@@ -78,7 +79,8 @@ Neural networks are already able to create original and meaningful cultural cont
     * Learner will be able to create artifical images based on Google's DeepDream algorithm.
   * Prerequisites
     * Recurrent Neural Networks for Sequence Processing in Python
-      * Note that [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python) is a prerequisite of Recurrent Neural Networks for Sequence Processing in Python, there is no need to include it here.
+    
+**_Note_**: *[Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python) is a prerequisite of Recurrent Neural Networks for Sequence Processing in Python, so I am not including it explicitely it here.*
   
 ## 7 - [Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)
 
