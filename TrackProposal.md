@@ -77,6 +77,7 @@ Neural networks are already able to create original and meaningful cultural cont
     * Learner will be able to create artifical images based on Google's DeepDream algorithm.
   * Prerequisites
     * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
+    * Recurrent Neural Networks for Sequence Processing in Python
   
 ## 7 - [Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)
 
