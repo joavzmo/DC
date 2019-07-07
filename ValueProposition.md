@@ -20,5 +20,5 @@
   * Nurture the relationship with the academic institutions leading those consortiums, express our determination to contribute and convince them of our added value.
   * Join their next grant preparations and become an active partner.
   * Timeframe: it will take 2 - 3 years to get the first grant, but once the process and relationships are established, we can expect to generate a continuous flow of a few grant applications per year.
-  * Neglectable initial cost: building the necessary trust and preparing the first grant application needs continuous attention during those first 2 - 3 years, but it is far from a full time job. I could do it as part of my duties as a Project Manager - Data Science Curriculum.
+  * Neglectable initial cost: building the necessary trust and preparing the first grant application needs continuous attention during those first years, but it is far from a full time job. I could do it as part of my duties as a Project Manager - Data Science Curriculum.
   * Long term vision: once the funding starts, a self-sustained Public Funded Projects Team can be set up. In my experience, this simplifies financial reporting and ensures that all agreed tasks are completed on time.
