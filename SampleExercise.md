@@ -11,8 +11,11 @@ Remember that `maxlen` is a number specifying the length of the character sequen
 ## Instructions
 
   * Create a `Sequential` model called `model`.
-  * Add a `LSTM`layer with `128` units, and and `input_shape` equal to `(maxlen, len(chars_list)`.
+  * Add an `LSTM`layer with `128` units, and and `input_shape` equal to `(maxlen, len(chars_list)`.
+  * Add a `Dense` output layer with the `softmax` activation function. How many units should it have?
 
+## Take Hint
+  * The number of units in the output layer should be equal to `len(chars_list)`. This is the number of unique characters in the philosopher's writings, and those are the characters that we want in our artificial text.
 
 ## Shown script
 
@@ -25,12 +28,16 @@ from keras.optimizers import RMSprop
 # Specify the model
 model = ___
 model.___(___(___, input_shape=___)))
-model.add(Dense(len(chars_list), activation='softmax'))
+model.add(Dense(___, activation='softmax'))
 
 # Compile the model
 optimizer = RMSprop(lr=0.01)
 model.compile(loss='categorical_crossentropy', optimizer=optimizer)
 ```
+
+
+len(chars_list)
+
 
 ## Full solution
 
@@ -52,4 +59,7 @@ model.compile(loss='categorical_crossentropy', optimizer=optimizer)
 
 ## Motivational feedback message
 
-## Tests and Hints
+## Tests
+
+## Note
+  * We can choose an actual philosopher and directly refer to him in the exercise. In the reference I used, writings of Nietzsche are used.
