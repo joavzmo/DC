@@ -1,4 +1,4 @@
-Exercise corresponding to the course **Generative Deep Learning in Python**, *Lesson 2.1: Creating a Long Short Term Memory neural network for character prediction*.
+Exercise corresponding to the course [Generative Deep Learning in Python](CourseOutline.md), *Lesson 2.1: Creating a Long Short Term Memory neural network for character prediction*.
 
 # Specifying the model for character prediction
 
