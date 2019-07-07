@@ -13,7 +13,7 @@
   * DataCamp could join strong consortiums in statistical research and be in charge of creating advanced statistics courses to disseminate the project technical results.
   * These courses would have a reduced target audience, but their development and operation would come at no financial cost for DataCamp. It is all a matter of working with the finance team to include all real costs in the grant application.
   * Being part of successful consortiums and having such courses in the portfolio brings marketing and partnership opportunities.
-  * There are also other funded programs that could be of interest for DataCamp, e.g. to fund PhD studends (MSCA-ITN) or staff exchange with our industrial and academic partners (MSCA-SE).
+  * There are also other funded programs that could be of interest for DataCamp, e.g. to fund in-house PhD studends ([MSCA-ITN](https://ec.europa.eu/research/mariecurieactions/actions/research-networks_en)) or staff exchange with our academic, industrial and commercial partners ([MSCA-RISE](https://ec.europa.eu/research/mariecurieactions/actions/staff-exchange_en)).
   
 ## Action plan
   * Identify strong consortiums in the field of statistical research.
