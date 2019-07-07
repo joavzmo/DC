@@ -29,9 +29,9 @@ According to [DataCamp's roadmap](https://trello.com/b/BLplifUB/datacamp-course-
 
 There are plenty of Deep Learning online courses available. Some of our most relevant competitors are:
 
-  * **Coursera**: Deep Learning Specialization
-  * **edX**: IBM's Deep Learning
-  * **Udemy**: Deep Learning A-Z™: Hands-On Artificial Neural Networks
+  * **Coursera**: Deep Learning Specialization.
+  * **edX**: IBM's Deep Learning.
+  * **Udemy**: Deep Learning A-Z™: Hands-On Artificial Neural Networks.
 
 ## Annotated bibliography
   * François Chollet, *Deep Learning with Python*. Manning Publications, 2018.
