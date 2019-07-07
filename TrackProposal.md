@@ -16,7 +16,7 @@ Deep learning is having a tremendous success in artificial intelligence, from sp
     * Learner will be able to create neural networks with the Specify-Compile-Fit-Optimize-Validate Keras workflow.
   * Prerequisites
     * [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
-      * I would remove this prerequisite, because it is already a prerequisite of Intermediate Python for Data Science.
+      - I would remove this prerequisite, because it is already a prerequisite of [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science).
     * [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
     * [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
 
@@ -78,6 +78,7 @@ Neural networks are already able to create original and meaningful cultural cont
     * Learner will be able to create artifical images based on Google's DeepDream algorithm.
   * Prerequisites
     * Recurrent Neural Networks for Sequence Processing in Python
+      * Note that [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python) is a prerequisite of Recurrent Neural Networks for Sequence Processing in Python, there is no need to include it here.
   
 ## 7 - [Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)
 
