@@ -62,5 +62,5 @@ This message sohuld pop up upon successful submission:
 ## Notes
   * I would work with the Content Developers and Quality Analysts to create solid unit tests for the exercises.
   * We can choose an actual philosopher and directly refer to him in the exercise. In the main reference that was used for this exercise, writings of Nietzsche are used.
-    * François Chollet, "Section 8.2: DeepDream," in *Deep Learning with Python*, Manning Publications, 2018.
+    * François Chollet, "Section 8.1: Text generation with LSTM," in *Deep Learning with Python*, Manning Publications, 2018.
   * Assessed learning objective: *Learner will be able to create a neural network suited for character prediction.*
